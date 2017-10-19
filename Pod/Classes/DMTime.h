@@ -46,7 +46,6 @@
  *	@brief  The latest result for a previous timed block of code.
  *
  *	@param key	The key for the block of code
- *	@param unit	The time unit to format the returned result in.
  *
  *	@return The time taken to run the block of code, in the given time unit,
  *			The result is -1 on failure.
