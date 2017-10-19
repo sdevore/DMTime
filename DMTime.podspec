@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "DMTime"
-  s.version          = "0.1.1"
+  s.version          = "0.1.2"
   s.summary          = "A iOS, Objective-C, timing framework. e.g. A code timer"
   s.description      = <<-DESC
                         #CocoaTime
